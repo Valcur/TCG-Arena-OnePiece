@@ -1,0 +1,56 @@
+name: Mise à jour des cartes One Piece
+
+on:
+  schedule:
+    # Chaque dimanche matin : 07:07 UTC = 09:07 à Paris l'été, 08:07 l'hiver
+    - cron: '7 7 * * 0'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Écraser OnePieceCards.json même si beaucoup de cartes ont disparu"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-onepiece
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Mettre à jour OnePieceCards.json
+        id: update
+        env:
+          FORCE: ${{ inputs.force && '1' || '0' }}
+        run: node Scripts/Update.js
+
+      - name: Commit et push
+        if: always() && steps.update.outcome != 'cancelled'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          # fichier du jeu + rapport dans Scripts/
+          for f in OnePieceCards.json Scripts; do
+            if [ -e "$f" ]; then git add -A -- "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise à jour des cartes One Piece ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Signaler les erreurs
+        if: steps.update.outputs.errors != '' && steps.update.outputs.errors != '0'
+        run: echo "::warning::${{ steps.update.outputs.errors }} erreur(s) et ${{ steps.update.outputs.warnings }} avertissement(s) — détail dans le résumé du run et dans Scripts/update-report.md"
