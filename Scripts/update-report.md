@@ -1,4 +1,4 @@
-# Mise à jour des cartes One Piece — 2026-10-23 17:14 UTC
+# Mise à jour des cartes One Piece — 2026-10-25 12:29 UTC
 
 | | |
 |---|---|
