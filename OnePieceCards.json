@@ -4525,6 +4525,7 @@
       "Special"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "P-012": {
@@ -6585,6 +6586,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "P-047_pr1": {
@@ -6609,6 +6611,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "P-048": {
@@ -8293,6 +8296,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "P-077": {
@@ -9150,6 +9154,7 @@
       "Heart Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "P-088": {
@@ -10389,6 +10394,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "P-119": {
@@ -10562,6 +10568,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "P-800_pr1": {
@@ -10591,6 +10598,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "P-900": {
@@ -10620,6 +10628,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "Sabo_CS_2024_Event_Pack_Finalist_img": {
@@ -10669,6 +10678,7 @@
       "Land of Wano Kouzuki Clan"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-001_p1": {
@@ -10694,6 +10704,7 @@
       "Land of Wano Kouzuki Clan"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-001_p2": {
@@ -10719,6 +10730,7 @@
       "Land of Wano Kouzuki Clan"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "EB01-002": {
@@ -11913,6 +11925,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-021_p1": {
@@ -11938,6 +11951,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-021_p2": {
@@ -11963,6 +11977,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "EB01-022": {
@@ -12671,6 +12686,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-040_p1": {
@@ -12696,6 +12712,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Memorial Collection"
   },
   "EB01-040_p2": {
@@ -12721,6 +12738,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "EB01-041": {
@@ -14129,6 +14147,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "EB02-010_p1": {
@@ -14154,6 +14173,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "EB02-010_pr1": {
@@ -14179,6 +14199,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "Monkey.D.Luffy_Sound_Loader_-_Luffy_Edition_2025_img": {
@@ -14204,6 +14225,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "EB02-011": {
@@ -16097,6 +16119,7 @@
       "Alabasta"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: One Piece Heroines Edition"
   },
   "EB03-001_p1": {
@@ -16122,6 +16145,7 @@
       "Alabasta"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: One Piece Heroines Edition"
   },
   "EB03-002": {
@@ -18337,6 +18361,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "EB04-001_p1": {
@@ -18363,6 +18388,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "EB04-002": {
@@ -20500,6 +20526,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-001_p1": {
@@ -20525,6 +20552,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-002": {
@@ -20551,6 +20579,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-002_p1": {
@@ -20577,6 +20606,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-003": {
@@ -20603,6 +20633,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-003_p1": {
@@ -20629,6 +20660,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-004": {
@@ -22526,6 +22558,7 @@
       "Land of Wano Kouzuki Clan"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-031_p1": {
@@ -22550,6 +22583,7 @@
       "Land of Wano Kouzuki Clan"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-032": {
@@ -24344,6 +24378,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-060_p1": {
@@ -24369,6 +24404,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-060_p2": {
@@ -24394,6 +24430,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 17: BLUE Donquixote Doflamingo"
   },
   "OP01-061": {
@@ -24420,6 +24457,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-061_p1": {
@@ -24446,6 +24484,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-062": {
@@ -24472,6 +24511,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-062_p1": {
@@ -24498,6 +24538,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Romance Dawn"
   },
   "OP01-063": {
@@ -25747,6 +25788,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-091_p1": {
@@ -25771,6 +25813,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Romance Dawn"
   },
   "OP01-092": {
@@ -27203,6 +27246,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 6,
     "set": "One Piece Promotion Cards"
   },
   "OP02-001": {
@@ -27228,6 +27272,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 6,
     "set": "Paramount War"
   },
   "OP02-001_p1": {
@@ -27253,6 +27298,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 6,
     "set": "Paramount War"
   },
   "OP02-001_p2": {
@@ -27278,6 +27324,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 6,
     "set": "Starter Deck 15: RED Edward.Newgate"
   },
   "OP02-002": {
@@ -27303,6 +27350,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "OP02-002_p1": {
@@ -27328,6 +27376,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "OP02-003": {
@@ -28665,6 +28714,7 @@
       "The Akazaya Nine"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-025_p1": {
@@ -28690,6 +28740,7 @@
       "The Akazaya Nine"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-026": {
@@ -28715,6 +28766,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "OP02-026_p1": {
@@ -28740,6 +28792,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "OP02-027": {
@@ -29684,6 +29737,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-049_p1": {
@@ -29709,6 +29763,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-050": {
@@ -30823,6 +30878,7 @@
       "Impel Down"
     ],
     "power": 6000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-071_p1": {
@@ -30847,6 +30903,7 @@
       "Impel Down"
     ],
     "power": 6000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-072": {
@@ -30873,6 +30930,7 @@
       "Neo Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "OP02-072_p1": {
@@ -30898,6 +30956,7 @@
       "Neo Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Paramount War"
   },
   "Little_Sadi_Judge_img": {
@@ -31626,6 +31685,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-093_p1": {
@@ -31650,6 +31710,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Paramount War"
   },
   "OP02-093_p2": {
@@ -31674,6 +31735,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 19: BLACK Smoker"
   },
   "OP02-094": {
@@ -33509,6 +33571,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-001_p1": {
@@ -33533,6 +33596,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "Portgas.D.Ace_Special_Goods_Set_-AceSaboLuffy-_img": {
@@ -33557,6 +33621,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP03-002": {
@@ -34504,6 +34569,7 @@
       "Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-021_p1": {
@@ -34530,6 +34596,7 @@
       "Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-022": {
@@ -34557,6 +34624,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Pillars of Strength"
   },
   "OP03-022_p1": {
@@ -34584,6 +34652,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Pillars of Strength"
   },
   "OP03-023": {
@@ -35373,6 +35442,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-040_p1": {
@@ -35397,6 +35467,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-041": {
@@ -36394,6 +36465,7 @@
       "Water Seven"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-058_p1": {
@@ -36419,6 +36491,7 @@
       "Water Seven"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-059": {
@@ -37210,6 +37283,7 @@
       "CP9"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-076_p1": {
@@ -37234,6 +37308,7 @@
       "CP9"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-077": {
@@ -37260,6 +37335,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Pillars of Strength"
   },
   "OP03-077_p1": {
@@ -37286,6 +37362,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Pillars of Strength"
   },
   "OP03-078": {
@@ -38707,6 +38784,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-099_p1": {
@@ -38731,6 +38809,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Pillars of Strength"
   },
   "OP03-099_p2": {
@@ -38755,6 +38834,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 20: YELLOW Charlotte Katakuri"
   },
   "OP03-100": {
@@ -40759,6 +40839,7 @@
       "Alabasta"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-001_p1": {
@@ -40784,6 +40865,7 @@
       "Alabasta"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-002": {
@@ -41407,6 +41489,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-019_p1": {
@@ -41433,6 +41516,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-020": {
@@ -41458,6 +41542,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-020_p1": {
@@ -41483,6 +41568,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-021": {
@@ -42384,6 +42470,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-039_p1": {
@@ -42409,6 +42496,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-040": {
@@ -42434,6 +42522,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-040_p1": {
@@ -42459,6 +42548,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-041": {
@@ -43117,6 +43207,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-058_p1": {
@@ -43143,6 +43234,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Kingdoms of Intrigue"
   },
   "OP04-059": {
@@ -45949,6 +46041,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-001_p1": {
@@ -45974,6 +46067,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-001_p2": {
@@ -45999,6 +46093,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP05-002": {
@@ -46024,6 +46119,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-002_p1": {
@@ -46049,6 +46145,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-002_p2": {
@@ -46074,6 +46171,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP05-003": {
@@ -47210,6 +47308,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-022_p1": {
@@ -47236,6 +47335,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-022_p2": {
@@ -47262,6 +47362,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP05-023": {
@@ -48084,6 +48185,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-041_p1": {
@@ -48109,6 +48211,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "Issho_Welcome_Pack_Vol._1_img": {
@@ -48886,6 +48989,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP05-060": {
@@ -48910,6 +49014,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Awakening of the New Era"
   },
   "OP05-060_p1": {
@@ -48934,6 +49039,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Awakening of the New Era"
   },
   "OP05-060_p3": {
@@ -48958,6 +49064,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 18: PURPLE Monkey.D.Luffy"
   },
   "OP05-060_p4": {
@@ -48982,6 +49089,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP05-060_pr1": {
@@ -49006,6 +49114,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP05-061": {
@@ -51319,6 +51428,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "OP05-098": {
@@ -51343,6 +51453,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-098_p1": {
@@ -51367,6 +51478,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Awakening of the New Era"
   },
   "OP05-098_p2": {
@@ -51391,6 +51503,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP05-099": {
@@ -52939,6 +53052,7 @@
       "FILM"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-001_p1": {
@@ -52964,6 +53078,7 @@
       "FILM"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-001_p2": {
@@ -52989,6 +53104,7 @@
       "FILM"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-002": {
@@ -53663,6 +53779,7 @@
       "New Fish-Man Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Wings of the Captain"
   },
   "OP06-020_p1": {
@@ -53688,6 +53805,7 @@
       "New Fish-Man Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Wings of the Captain"
   },
   "OP06-020_p2": {
@@ -53713,6 +53831,7 @@
       "New Fish-Man Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-021": {
@@ -53738,6 +53857,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-021_p1": {
@@ -53763,6 +53883,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-021_p2": {
@@ -53788,6 +53909,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-022": {
@@ -53813,6 +53935,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-022_p1": {
@@ -53838,6 +53961,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-022_p2": {
@@ -53863,6 +53987,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-022_p3": {
@@ -53888,6 +54013,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Starter Deck 28: GREEN/YELLOW Yamato"
   },
   "OP06-023": {
@@ -54906,6 +55032,7 @@
       "GERMA 66"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-042_p1": {
@@ -54932,6 +55059,7 @@
       "GERMA 66"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Wings of the Captain"
   },
   "OP06-042_p2": {
@@ -54958,6 +55086,7 @@
       "GERMA 66"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-043": {
@@ -57465,6 +57594,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Wings of the Captain"
   },
   "OP06-080_p1": {
@@ -57490,6 +57620,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Wings of the Captain"
   },
   "OP06-080_p2": {
@@ -57515,6 +57646,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP06-081": {
@@ -59997,6 +60129,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-001_p1": {
@@ -60021,6 +60154,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-001_p2": {
@@ -60045,6 +60179,7 @@
       "Revolutionary Army"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP07-002": {
@@ -60682,6 +60817,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-019_p1": {
@@ -60707,6 +60843,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-019_p2": {
@@ -60732,6 +60869,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP07-019_p3": {
@@ -60757,6 +60895,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 24: GREEN Jewelry Bonney"
   },
   "OP07-020": {
@@ -61840,6 +61979,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP07-038": {
@@ -61865,6 +62005,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-038_p1": {
@@ -61890,6 +62031,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-038_p2": {
@@ -61915,6 +62057,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP07-039": {
@@ -63250,6 +63393,7 @@
       "Foxy Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-059_p1": {
@@ -63274,6 +63418,7 @@
       "Foxy Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-059_p2": {
@@ -63298,6 +63443,7 @@
       "Foxy Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP07-060": {
@@ -64100,6 +64246,7 @@
       "CP0"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-079_p1": {
@@ -64124,6 +64271,7 @@
       "CP0"
     ],
     "power": 5000,
+    "life": 5,
     "set": "500 Years in the Future"
   },
   "OP07-079_p2": {
@@ -64148,6 +64296,7 @@
       "CP0"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "Kaku_CS_25-26_Celebration_Pack_img": {
@@ -64801,6 +64950,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 2,
     "set": "500 Years in the Future"
   },
   "OP07-097_p1": {
@@ -64826,6 +64976,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 2,
     "set": "500 Years in the Future"
   },
   "OP07-097_p2": {
@@ -64851,6 +65002,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 2,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP07-098": {
@@ -66224,6 +66376,7 @@
       "5000"
     ],
     "power": 4,
+    "life": 1,
     "set": "Two Legends"
   },
   "OP08-001_p1": {
@@ -66251,6 +66404,7 @@
       "Drum Kingdom"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-001_p2": {
@@ -66278,6 +66432,7 @@
       "Drum Kingdom"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP08-002": {
@@ -66303,6 +66458,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-002_p1": {
@@ -66328,6 +66484,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-002_p2": {
@@ -66353,6 +66510,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP08-003": {
@@ -66963,6 +67121,7 @@
       "Minks"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Two Legends"
   },
   "OP08-021_p1": {
@@ -66987,6 +67146,7 @@
       "Minks"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Two Legends"
   },
   "OP08-021_p2": {
@@ -67011,6 +67171,7 @@
       "Minks"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP08-022": {
@@ -68077,6 +68238,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-057_p1": {
@@ -68102,6 +68264,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-057_p2": {
@@ -68127,6 +68290,7 @@
       "Animal Kingdom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP08-058": {
@@ -68152,6 +68316,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-058_p1": {
@@ -68177,6 +68342,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Two Legends"
   },
   "OP08-058_p2": {
@@ -68202,6 +68368,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "OP08-059": {
@@ -69624,6 +69791,7 @@
       "Jaya"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Two Legends"
   },
   "OP08-098_p1": {
@@ -69650,6 +69818,7 @@
       "Jaya"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Two Legends"
   },
   "OP08-098_p2": {
@@ -69676,6 +69845,7 @@
       "Jaya"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Extra Booster: Anime 25th Collection"
   },
   "Kalgara_Premium_Card_Collection_-Best_Selection_Vol._4-_img": {
@@ -70629,6 +70799,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-001_p1": {
@@ -70654,6 +70825,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-001_p2": {
@@ -70679,6 +70851,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 23: RED Shanks"
   },
   "OP09-001_pr1": {
@@ -70704,6 +70877,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP09-002": {
@@ -72107,6 +72281,7 @@
       "ODYSSEY"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-022_p1": {
@@ -72132,6 +72307,7 @@
       "ODYSSEY"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-023": {
@@ -72986,6 +73162,7 @@
       "Cross Guild"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "OP09-042": {
@@ -73011,6 +73188,7 @@
       "Cross Guild"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-042_p1": {
@@ -73036,6 +73214,7 @@
       "Cross Guild"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-042_p2": {
@@ -73061,6 +73240,7 @@
       "Cross Guild"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 25: BLUE Buggy"
   },
   "Alvida_CS_25-26_Top_Player_Pack_Vol._2_img": {
@@ -74124,6 +74304,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "OP09-061": {
@@ -74150,6 +74331,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-061_p1": {
@@ -74176,6 +74358,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-061_p2": {
@@ -74202,6 +74385,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy"
   },
   "OP09-061_pr1": {
@@ -74228,6 +74412,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "OP09-062": {
@@ -74253,6 +74438,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-062_p1": {
@@ -74278,6 +74464,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Emperors in the New World"
   },
   "OP09-063": {
@@ -75346,6 +75533,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-081_p1": {
@@ -75371,6 +75559,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Emperors in the New World"
   },
   "OP09-081_p2": {
@@ -75396,6 +75585,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 27: BLACK Marshall.D.Teach"
   },
   "OP09-082": {
@@ -77417,6 +77607,7 @@
       "Punk Hazard"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-001_p1": {
@@ -77443,6 +77634,7 @@
       "Punk Hazard"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-002": {
@@ -77469,6 +77661,7 @@
       "Scientist"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-002_p1": {
@@ -77495,6 +77688,7 @@
       "Scientist"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-003": {
@@ -77520,6 +77714,7 @@
       "Donquixote Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-003_p1": {
@@ -77545,6 +77740,7 @@
       "Donquixote Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-004": {
@@ -78269,6 +78465,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-022_p1": {
@@ -78296,6 +78493,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-023": {
@@ -79053,6 +79251,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-042_p1": {
@@ -79079,6 +79278,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Royal Blood"
   },
   "OP10-043": {
@@ -81208,6 +81408,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Royal Blood"
   },
   "OP10-099_p1": {
@@ -81233,6 +81434,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Royal Blood"
   },
   "OP10-099_p2": {
@@ -81258,6 +81460,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid"
   },
   "OP10-100": {
@@ -82492,6 +82695,7 @@
       "SWORD"
     ],
     "power": 5000,
+    "life": 4,
     "set": "A Fist of Divine Speed"
   },
   "OP11-001_p1": {
@@ -82518,6 +82722,7 @@
       "SWORD"
     ],
     "power": 5000,
+    "life": 4,
     "set": "A Fist of Divine Speed"
   },
   "OP11-002": {
@@ -83259,6 +83464,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-021_p1": {
@@ -83284,6 +83490,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-022": {
@@ -83310,6 +83517,7 @@
       "Fish-Man Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-022_p1": {
@@ -83336,6 +83544,7 @@
       "Fish-Man Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-023": {
@@ -83875,6 +84084,7 @@
       "Straw Hat Crew"
     ],
     "power": 6000,
+    "life": 3,
     "set": "A Fist of Divine Speed"
   },
   "OP11-040_p1": {
@@ -83900,6 +84110,7 @@
       "Straw Hat Crew"
     ],
     "power": 6000,
+    "life": 3,
     "set": "A Fist of Divine Speed"
   },
   "Nami_Whole_Cake_Island_Arc_img": {
@@ -83925,6 +84136,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "OP11-041": {
@@ -83950,6 +84162,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "A Fist of Divine Speed"
   },
   "OP11-041_p1": {
@@ -83975,6 +84188,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "A Fist of Divine Speed"
   },
   "OP11-042": {
@@ -84661,6 +84875,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-062_p1": {
@@ -84685,6 +84900,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "A Fist of Divine Speed"
   },
   "OP11-062_p2": {
@@ -84709,6 +84925,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 34: PURPLE Charlotte Katakuri"
   },
   "OP11-063": {
@@ -86764,6 +86981,7 @@
       "Roger Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-001_p1": {
@@ -86789,6 +87007,7 @@
       "Roger Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-002": {
@@ -87398,6 +87617,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-020_p1": {
@@ -87423,6 +87643,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-020_p5": {
@@ -87448,6 +87669,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 32: GREEN Roronoa Zoro"
   },
   "OP12-021": {
@@ -88363,6 +88585,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-040_p1": {
@@ -88387,6 +88610,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Legacy of the Master"
   },
   "OP12-040_p2": {
@@ -88411,6 +88635,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 33: BLUE Kuzan"
   },
   "OP12-041": {
@@ -88437,6 +88662,7 @@
       "The Vinsmoke Family"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-041_p1": {
@@ -88463,6 +88689,7 @@
       "The Vinsmoke Family"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-042": {
@@ -89215,6 +89442,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-061_p1": {
@@ -89241,6 +89469,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-062": {
@@ -89906,6 +90135,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-081_p1": {
@@ -89932,6 +90162,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Legacy of the Master"
   },
   "OP12-082": {
@@ -91421,6 +91652,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Carrying On His Will"
   },
   "OP13-001_p1": {
@@ -91447,6 +91679,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Carrying On His Will"
   },
   "OP13-002": {
@@ -91472,6 +91705,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 3,
     "set": "Carrying On His Will"
   },
   "OP13-002_p1": {
@@ -91497,6 +91731,7 @@
       "Whitebeard Pirates"
     ],
     "power": 6000,
+    "life": 3,
     "set": "Carrying On His Will"
   },
   "OP13-003": {
@@ -91524,6 +91759,7 @@
       "Pirates"
     ],
     "power": 7000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-003_p1": {
@@ -91551,6 +91787,7 @@
       "Pirates"
     ],
     "power": 7000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-004": {
@@ -91577,6 +91814,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-004_p1": {
@@ -91603,6 +91841,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-004_p2": {
@@ -91629,6 +91868,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 35: RED/BLACK Sabo"
   },
   "OP13-005": {
@@ -94100,6 +94340,7 @@
       "?"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Carrying On His Will"
   },
   "OP13-079_p1": {
@@ -94124,6 +94365,7 @@
       "?"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Carrying On His Will"
   },
   "OP13-080": {
@@ -94965,6 +95207,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-100_p1": {
@@ -94990,6 +95233,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Carrying On His Will"
   },
   "OP13-101": {
@@ -96008,6 +96252,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-001_p1": {
@@ -96034,6 +96279,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-002": {
@@ -96614,6 +96860,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-020_p1": {
@@ -96638,6 +96885,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-021": {
@@ -97262,6 +97510,7 @@
       "Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-040_p1": {
@@ -97289,6 +97538,7 @@
       "Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-041": {
@@ -97315,6 +97565,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Azure Sea's Seven"
   },
   "OP14-041_p1": {
@@ -97341,6 +97592,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Azure Sea's Seven"
   },
   "OP14-042": {
@@ -97881,6 +98133,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-060_p1": {
@@ -97906,6 +98159,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-061": {
@@ -98446,6 +98700,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-079_p1": {
@@ -98471,6 +98726,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Azure Sea's Seven"
   },
   "OP14-080": {
@@ -98497,6 +98753,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Azure Sea's Seven"
   },
   "OP14-080_2oXrBR0": {
@@ -98523,6 +98780,7 @@
       "Thriller Bark Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Azure Sea's Seven"
   },
   "OP14-081": {
@@ -99940,6 +100198,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-001_p1": {
@@ -99966,6 +100225,7 @@
       "East Blue"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-002": {
@@ -99992,6 +100252,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-002_p1": {
@@ -100018,6 +100279,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-003": {
@@ -100618,6 +100880,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-022_p1": {
@@ -100643,6 +100906,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Adventure on Kami's Island"
   },
   "OP15-023": {
@@ -101169,6 +101433,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-039_p1": {
@@ -101193,6 +101458,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-040": {
@@ -101763,6 +102029,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-058_p1": {
@@ -101787,6 +102054,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-059": {
@@ -102928,6 +103196,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-098_p1": {
@@ -102953,6 +103222,7 @@
       "Sky Island"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Adventure on Kami's Island"
   },
   "OP15-099": {
@@ -103698,6 +103968,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-001_p1": {
@@ -103722,6 +103993,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-002": {
@@ -104360,6 +104632,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Time of Battle"
   },
   "OP16-022_p1": {
@@ -104386,6 +104659,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Time of Battle"
   },
   "OP16-023": {
@@ -104940,6 +105214,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-041_p1": {
@@ -104965,6 +105240,7 @@
       "Impel Down"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-042": {
@@ -105518,6 +105794,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-060_p1": {
@@ -105542,6 +105819,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-061": {
@@ -106153,6 +106431,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-079_p1": {
@@ -106177,6 +106456,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The Time of Battle"
   },
   "OP16-080": {
@@ -106203,6 +106483,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Time of Battle"
   },
   "OP16-080_p1": {
@@ -106229,6 +106510,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 4,
     "set": "The Time of Battle"
   },
   "OP16-081": {
@@ -107406,6 +107688,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-001_p1": {
@@ -107431,6 +107714,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-002": {
@@ -107971,6 +108255,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-020_p1": {
@@ -107996,6 +108281,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-021": {
@@ -108608,6 +108894,7 @@
       "Rocks Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-039_p1": {
@@ -108632,6 +108919,7 @@
       "Rocks Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-040": {
@@ -109242,6 +109530,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-058_p1": {
@@ -109267,6 +109556,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-059": {
@@ -109940,6 +110230,7 @@
       "Elbaph"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-079_p1": {
@@ -109966,6 +110257,7 @@
       "Elbaph"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-079_p2": {
@@ -109992,6 +110284,7 @@
       "Elbaph"
     ],
     "power": 5000,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-080": {
@@ -110607,6 +110900,7 @@
       "Special"
     ],
     "power": 0,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-099_p1": {
@@ -110631,6 +110925,7 @@
       "Special"
     ],
     "power": 0,
+    "life": 5,
     "set": "The World's Strongest Warriors"
   },
   "OP17-100": {
@@ -111315,6 +111610,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Premium Booster - The Best"
   },
   "PRB01-001_p1": {
@@ -111339,6 +111635,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Premium Booster - The Best"
   },
   "PRB02-001": {
@@ -112438,6 +112735,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "ST01-001": {
@@ -112463,6 +112761,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 1: Straw Hat Crew"
   },
   "ST01-002": {
@@ -114251,6 +114550,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "ST02-001": {
@@ -114276,6 +114576,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 2: Worst Generation"
   },
   "ST02-002": {
@@ -115173,6 +115474,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "ST03-001": {
@@ -115198,6 +115500,7 @@
       "The Seven Warlords of the Sea"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 3: The Seven Warlords of The Sea"
   },
   "ST03-002": {
@@ -116712,6 +117015,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "One Piece Promotion Cards"
   },
   "ST04-001": {
@@ -116737,6 +117041,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 4: Animal Kingdom Pirates"
   },
   "ST04-002": {
@@ -117959,6 +118264,7 @@
       "Red-Haired Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 5: Film Edition"
   },
   "Ain_Judge_Pack_Vol._4_img": {
@@ -118509,6 +118815,7 @@
       "Navy"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 6: Absolute Justice"
   },
   "Koby_Promotion_Pack_2023_img": {
@@ -119398,6 +119705,7 @@
       "Big Mom Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 7: Big Mom Pirates"
   },
   "ST07-002": {
@@ -120076,6 +120384,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 8: Monkey.D.Luffy"
   },
   "ST08-002": {
@@ -120461,6 +120770,7 @@
       "Land of Wano"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 9: Yamato"
   },
   "ST09-002": {
@@ -120921,6 +121231,7 @@
       "Heart Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Captains"
   },
   "ST10-002": {
@@ -120946,6 +121257,7 @@
       "Straw Hat Crew"
     ],
     "power": 6000,
+    "life": 3,
     "set": "Ultra Deck: The Three Captains"
   },
   "ST10-003": {
@@ -120971,6 +121283,7 @@
       "Kid Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Ultra Deck: The Three Captains"
   },
   "ST10-004": {
@@ -121816,6 +122129,7 @@
       "FILM"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 11: Uta"
   },
   "ST11-001_p1": {
@@ -121840,6 +122154,7 @@
       "FILM"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 16: GREEN Uta"
   },
   "ST11-002": {
@@ -122114,6 +122429,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Starter Deck 12: Zoro and Sanji"
   },
   "ST12-002": {
@@ -122796,6 +123112,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "ST13-001": {
@@ -122822,6 +123139,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-001_p1": {
@@ -122848,6 +123166,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-001_pr1": {
@@ -122874,6 +123193,7 @@
       "Dressrosa"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "Portgas.D.Ace_2nd_Anniversary_Tournament_img": {
@@ -122899,6 +123219,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "ST13-002": {
@@ -122924,6 +123245,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-002_p1": {
@@ -122949,6 +123271,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-003": {
@@ -122974,6 +123297,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-003_p1": {
@@ -122999,6 +123323,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "Ultra Deck: The Three Brothers"
   },
   "ST13-003_pr1": {
@@ -123024,6 +123349,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "ST13-003_pr2": {
@@ -123049,6 +123375,7 @@
       "Supernovas"
     ],
     "power": 5000,
+    "life": 4,
     "set": "One Piece Promotion Cards"
   },
   "ST13-004": {
@@ -124166,6 +124493,7 @@
       "Straw Hat Crew"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 14: 3D2Y"
   },
   "ST14-002": {
@@ -126659,6 +126987,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck EX: Gear 5"
   },
   "ST21-001_p1": {
@@ -126684,6 +127013,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck EX: Gear 5"
   },
   "ST21-001_r1": {
@@ -126709,6 +127039,7 @@
       "The Four Emperors"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 31: RED Monkey.D.Luffy"
   },
   "ST21-002": {
@@ -127637,6 +127968,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 22: Ace & Newgate"
   },
   "ST22-001_p1": {
@@ -127662,6 +127994,7 @@
       "Whitebeard Pirates"
     ],
     "power": 5000,
+    "life": 5,
     "set": "Starter Deck 22: Ace & Newgate"
   },
   "ST22-002": {
@@ -129342,6 +129675,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 6,
     "set": "Starter Deck 29: Egghead"
   },
   "ST29-001_IYtkmBo": {
@@ -129368,6 +129702,7 @@
       "Egghead"
     ],
     "power": 5000,
+    "life": 6,
     "set": "Starter Deck 29: Egghead"
   },
   "ST29-002": {
@@ -130125,6 +130460,7 @@
       "Impel Down"
     ],
     "power": 6000,
+    "life": 4,
     "set": "Starter Deck EX: Luffy & Ace"
   },
   "ST30-001_p1": {
@@ -130152,6 +130488,7 @@
       "Impel Down"
     ],
     "power": 6000,
+    "life": 4,
     "set": "Starter Deck EX: Luffy & Ace"
   },
   "ST30-002": {

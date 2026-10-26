@@ -4,7 +4,8 @@
  *
  *  1. Télécharge toutes les cartes : boosters (allSetCards), starter decks (allSTCards), promos (allPromos)
  *     et cartes DON!! (allDonCards) — une requête par liste, chaque semaine
- *  2. Génère OnePieceCards.json au format TCG Arena (id, face.front, name, type, cost, rarity, colors, subtypes, power, set)
+ *  2. Génère OnePieceCards.json au format TCG Arena (id, face.front, name, type, cost, rarity, colors, subtypes, power,
+ *     life pour les Leaders, set)
  *     - id   = card_image_id (OP01-077, OP01-077_p1 pour la version Parallel / Box Topper…)
  *     - name = "Perona OP01-077" : les versions alternatives (et les promos réimprimées) ont le même nom
  *              que la carte de base → TCG Arena les regroupe comme skins de la même carte
@@ -339,7 +340,7 @@ function buildCardEntry(c, splitSubtypes, setName) {
     const name = `${baseName(c.card_name)} ${number}`;
     const type = clean(c.card_type) || 'Unknown';
     const cost = toInt(c.card_cost);
-    return {
+    const entry = {
         id,
         face: {
             front: { name, type, cost, image: clean(c.card_image), isHorizontal: false },
@@ -351,8 +352,14 @@ function buildCardEntry(c, splitSubtypes, setName) {
         colors: clean(c.card_color).split(' ').filter(Boolean),
         subtypes: splitSubtypes(c.sub_types),
         power: toInt(c.card_power),
-        set: setName,
     };
+    // Points de vie : uniquement pour les Leaders
+    if (type === 'Leader') {
+        entry.life = toInt(c.life);
+        if (!clean(c.life)) report('warning', 'Leaders sans valeur de vie dans l\'API (life mis à 0)', id, clean(c.card_name));
+    }
+    entry.set = setName;
+    return entry;
 }
 
 /** Cartes DON!! : même nom pour toutes → une seule carte "DON!!" avec ses différentes illustrations en skins */
