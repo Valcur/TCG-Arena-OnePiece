@@ -1,0 +1,238 @@
+{
+    "name": "One Piece",
+    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-OnePiece/Images/banner.jpg",
+    "deckBuilding": {
+        "mainFilters": [
+            "type",
+            "colors",
+            "rarity"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic",
+                "deckRuleset": "Classic"
+            }
+        ],
+        "deckRulesets": {
+            "Classic": {
+                "general": {
+                    "min": 50,
+                    "max": 50,
+                    "maxPerCard": 4
+                },
+                "categories": [
+                    {
+                        "category": "Leader",
+                        "min": 1,
+                        "max": 1,
+                        "ignoreTotalCount": true
+                    },
+                    {
+                        "category": "DON!!",
+                        "min": 1,
+                        "max": 10,
+                        "maxPerCard": 10,
+                        "ignoreTotalCount": true
+                    }
+                ]
+            }
+        }
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "You can draw a new hand once.",
+                "startingHandSize": 5,
+                "mulliganCount": {
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "selectionRange": {
+                        "min": 5
+                    },
+                    "steps": [
+                        "toBottom",
+                        "shuffle",
+                        "draw"
+                    ]
+                }
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "drawPerTurn": 1
+            },
+            "tokens": [],
+            "draggableTokens": [],
+            "countersStartingValues": [],
+            "sections": {
+                "layout": {
+                    "direction": "row",
+                    "isSymetricalForOpponents": true,
+                    "style": {
+                        "gap": "3vh"
+                    },
+                    "content": [
+                        {
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
+                            "content": [
+                                {
+                                    "section": "Life",
+                                    "style": {
+                                        "marginLeft": "auto"
+                                    }
+                                },
+                                {
+                                    "section": "Manager"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "column",
+                            "style": {
+                                "width": "70vh"
+                            },
+                            "content": [
+                                {
+                                    "section": "FrontLine"
+                                },
+                                {
+                                    "section": "EnergyLine"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
+                            "content": [
+                                {
+                                    "section": "APReserve",
+                                    "style": {
+                                        "position": "absolute",
+                                        "top": 0,
+                                        "left": "-100vw"
+                                    }
+                                },
+                                {
+                                    "section": "Mana",
+                                    "style": {
+                                        "marginTop": "0",
+                                        "maxWidth": "35vh",
+                                        "marginRight": "auto"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": [
+                    "DON!!->DON",
+                    "Leader"
+                ],
+                "autoPlayFromHand": {
+                    "Event": "Stack"
+                },
+                "autoPlayFromStack": {
+                    "Event": "Discard",
+                    "Character": "Discard",
+                    "Site": "Discard"
+                },
+                "sectionsDict": {
+                    "Character": {
+                        "isHidden": "no",
+                        "height": 18,
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Character Area",
+                        "noQuickActions": true,
+                        "enterTapped": true
+                    },
+                    "Leader": {
+                        "isHidden": "no",
+                        "height": 18,
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Leader Card",
+                        "noQuickActions": true,
+                        "enterTapped": true
+                    },
+                    "Don": {
+                        "isHidden": "no",
+                        "height": 18,
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "DON Deck",
+                        "noQuickActions": true,
+                        "enterTapped": true
+                    },
+                    "Mana": {
+                        "isHidden": "yes",
+                        "height": 0,
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Cost Area"
+                    },
+                    "Stage": {
+                        "isHidden": "no",
+                        "height": 11,
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": false,
+                        "displayedTitle": "Stage Card",
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        }
+                    },
+                    "Life": {
+                        "isHidden": "yes",
+                        "height": 11,
+                        "alignment": "DECK",
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Life"
+                    },
+                    "Manager": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "energy": 0
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "className": "position-absolute top-0 start-0 box-container",
+                                "style": {
+                                    "width": "8rem",
+                                    "display": "none",
+                                    "marginLeft": "20vh"
+                                }
+                            },
+                            "children": "{{ game.data.Manager.energy }}"
+                        },
+                        "events": {
+                            "onNewTurn": "await onNewTurn()"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://valcur.github.io/TCG-Arena-UnionArena/images/background01.jpg",
+            "https://valcur.github.io/TCG-Arena-UnionArena/images/background02.jpg"
+        ],
+        "decksUrl": ""
+    },
+    "customHelp": "",
+    "cards": {
+        "dataUrl": "https://valcur.github.io/TCG-Arena-OnePiece/OnePieceCards.json",
+        "cardBack": "https://valcur.github.io/TCG-Arena-OnePiece/Images/cardBack.jpg"
+    },
+    "scriptsUrls": [
+        "https://valcur.github.io/TCG-Arena-OnePiece/functions.jsx"
+    ]
+}
