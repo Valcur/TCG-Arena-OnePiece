@@ -1,0 +1,16 @@
+{
+    "author": "PiouPiou",
+    "gameUrl": "https://valcur.github.io/TCG-Arena-OnePiece/game.json",
+    "tags": "",
+    "langs": [
+        "en"
+    ],
+    "useAiArts": false,
+    "screenshotUrls": [
+        "https://valcur.github.io/TCG-Arena-OnePiece/workshop/workshop1.jpg"
+    ],
+    "descriptionUrl": "https://valcur.github.io/TCG-Arena-OnePiece/workshop/description.md",
+    "updates": [
+        "First release!"
+    ]
+}

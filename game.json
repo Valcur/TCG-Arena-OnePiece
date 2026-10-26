@@ -41,9 +41,22 @@
     },
     "gameplay": {
         "Classic": {
+            "beforeGameStart": {
+                "initialBoardSetup": {
+                    "0": [
+                        {
+                            "drawFromTop": "Don",
+                            "count": 1,
+                            "destination": "Mana"
+                        }
+                    ]
+                },
+                "chooseAnotherStartingPlayer": true
+            },
             "mulligan": {
                 "info": "You can draw a new hand once.",
                 "startingHandSize": 5,
+                "triggeredByButton": true,
                 "mulliganCount": {
                     "max": 1
                 },
@@ -67,38 +80,32 @@
             "countersStartingValues": [],
             "sections": {
                 "layout": {
-                    "direction": "row",
-                    "isSymetricalForOpponents": true,
-                    "style": {
-                        "gap": "3vh"
-                    },
+                    "direction": "column",
                     "content": [
                         {
                             "direction": "row",
                             "isSymetricalForOpponents": true,
                             "content": [
                                 {
-                                    "section": "Life",
+                                    "section": "Life"
+                                },
+                                {
+                                    "direction": "row",
                                     "style": {
-                                        "marginLeft": "auto"
-                                    }
+                                        "width": "18vh",
+                                        "marginRight": "3vh"
+                                    },
+                                    "content": [
+                                        {
+                                            "section": "Damage"
+                                        },
+                                        {
+                                            "section": "Manager"
+                                        }
+                                    ]
                                 },
                                 {
-                                    "section": "Manager"
-                                }
-                            ]
-                        },
-                        {
-                            "direction": "column",
-                            "style": {
-                                "width": "70vh"
-                            },
-                            "content": [
-                                {
-                                    "section": "FrontLine"
-                                },
-                                {
-                                    "section": "EnergyLine"
+                                    "section": "Character"
                                 }
                             ]
                         },
@@ -107,19 +114,22 @@
                             "isSymetricalForOpponents": true,
                             "content": [
                                 {
-                                    "section": "APReserve",
+                                    "section": "Don"
+                                },
+                                {
+                                    "section": "Mana"
+                                },
+                                {
+                                    "section": "Leader",
                                     "style": {
-                                        "position": "absolute",
-                                        "top": 0,
-                                        "left": "-100vw"
+                                        "width": "11.5vh",
+                                        "marginLeft": "10vh"
                                     }
                                 },
                                 {
-                                    "section": "Mana",
+                                    "section": "Stage",
                                     "style": {
-                                        "marginTop": "0",
-                                        "maxWidth": "35vh",
-                                        "marginRight": "auto"
+                                        "width": "11.5vh"
                                     }
                                 }
                             ]
@@ -127,21 +137,27 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "DON!!->DON",
+                    "DON!!->Don",
                     "Leader"
                 ],
                 "autoPlayFromHand": {
-                    "Event": "Stack"
+                    "DON!!": "Mana",
+                    "Event": "Stack",
+                    "Character": "Character",
+                    "Stage": "Stage",
+                    "Leader": "Leader"
                 },
                 "autoPlayFromStack": {
+                    "DON!!": "Mana",
                     "Event": "Discard",
-                    "Character": "Discard",
-                    "Site": "Discard"
+                    "Character": "Character",
+                    "Stage": "Stage",
+                    "Leader": "Leader"
                 },
                 "sectionsDict": {
                     "Character": {
                         "isHidden": "no",
-                        "height": 18,
+                        "height": 19,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "isGroupForbidden": true,
@@ -149,71 +165,89 @@
                         "noQuickActions": true,
                         "enterTapped": true
                     },
+                    "Life": {
+                        "isHidden": "yes",
+                        "height": 19,
+                        "alignment": "DECK",
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Life",
+                        "drawDestinations": {
+                            "_default": "Damage"
+                        }
+                    },
+                    "Damage": {
+                        "isHidden": "opponent-only",
+                        "height": 19,
+                        "alignment": "CENTER",
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Damage",
+                        "noQuickActions": true,
+                        "events": {
+                            "onCardsEnter": "await updateDamageCount()",
+                            "onCardsLeave": "await updateDamageCount()"
+                        }
+                    },
                     "Leader": {
                         "isHidden": "no",
-                        "height": 18,
-                        "alignment": "CENTER",
+                        "height": 16,
+                        "alignment": "NONE",
                         "isHorizontalAllowed": true,
-                        "isGroupForbidden": true,
                         "displayedTitle": "Leader Card",
                         "noQuickActions": true,
                         "enterTapped": true
                     },
                     "Don": {
-                        "isHidden": "no",
-                        "height": 18,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "isGroupForbidden": true,
+                        "isHidden": "yes",
+                        "height": 16,
+                        "alignment": "DECK",
                         "displayedTitle": "DON Deck",
-                        "noQuickActions": true,
-                        "enterTapped": true
+                        "drawPerTurn": 2
                     },
                     "Mana": {
-                        "isHidden": "yes",
-                        "height": 0,
-                        "alignment": "CENTER",
+                        "isHidden": "no",
+                        "height": 16,
+                        "alignment": "START",
                         "isHorizontalAllowed": true,
                         "isGroupForbidden": true,
                         "displayedTitle": "Cost Area"
                     },
                     "Stage": {
                         "isHidden": "no",
-                        "height": 11,
+                        "height": 16,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": false,
                         "isGroupForbidden": false,
-                        "displayedTitle": "Stage Card",
-                        "cardActionShortcut": {
-                            "action": "NONE"
-                        }
-                    },
-                    "Life": {
-                        "isHidden": "yes",
-                        "height": 11,
-                        "alignment": "DECK",
-                        "isGroupForbidden": true,
-                        "displayedTitle": "Life"
+                        "displayedTitle": "Stage Card"
                     },
                     "Manager": {
                         "type": "custom",
                         "defaultValue": {
-                            "energy": 0
+                            "damageCount": 0
                         },
                         "blueprint": {
                             "type": "div",
                             "props": {
-                                "className": "position-absolute top-0 start-0 box-container",
+                                "className": "player-only position-absolute top-0 start-50 gap-2",
                                 "style": {
-                                    "width": "8rem",
-                                    "display": "none",
-                                    "marginLeft": "20vh"
+                                    "display": "{{ game.data.Manager.damageCount > 0 ? 'flex' : 'none' }}",
+                                    "translate": "-50% -100%"
                                 }
                             },
-                            "children": "{{ game.data.Manager.energy }}"
+                            "children": [
+                                {
+                                    "type": "button",
+                                    "onClick": "await revealDamage()",
+                                    "children": "Reveal"
+                                },
+                                {
+                                    "type": "button",
+                                    "onClick": "await drawDamage()",
+                                    "children": "Draw"
+                                }
+                            ]
                         },
                         "events": {
-                            "onNewTurn": "await onNewTurn()"
+                            "onPlayersReady": "await onPlayersReady()"
                         }
                     }
                 }
@@ -222,8 +256,15 @@
     },
     "defaultRessources": {
         "backgrounds": [
-            "https://valcur.github.io/TCG-Arena-UnionArena/images/background01.jpg",
-            "https://valcur.github.io/TCG-Arena-UnionArena/images/background02.jpg"
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat1.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat2.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat3.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat4.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat5.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat6.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat7.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat8.webp",
+            "https://valcur.github.io/TCG-Arena-OnePiece/Images/Playmats/playmat9.webp"
         ],
         "decksUrl": ""
     },
