@@ -21,3 +21,7 @@ async function drawDamage() {
         await functions.repositionCards()
     }
 }
+
+async function updateDamageCount() {
+    game.data.Manager.damageCount = cards?.Damage?.length ?? 0
+}
