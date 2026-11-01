@@ -1,20 +1,20 @@
-# Mise à jour des cartes One Piece — 2026-10-26 14:31 UTC
+# Mise à jour des cartes One Piece — 2026-11-01 14:13 UTC
 
 | | |
 |---|---|
-| Boosters | 3654 cartes |
+| Boosters | 3743 cartes |
 | Starter decks | 626 cartes |
 | Promos | 1082 cartes |
 | DON!! | 187 cartes |
 | Cartes dans OnePieceCards.json | 5387 (avant : 5387) |
 | Nouvelles cartes | 0 |
 | Cartes disparues de l'API (conservées) | 0 |
-| Cartes ignorées faute d'image | 142 |
-| Sous-types différents | 201 (dont 54 cités dans les textes de cartes, 62 déduits) |
+| Cartes ignorées faute d'image | 231 |
+| Sous-types différents | 202 (dont 54 cités dans les textes de cartes, 62 déduits) |
 | ❌ Erreurs | 0 |
-| ⚠️ Avertissements | 33 |
+| ⚠️ Avertissements | 34 |
 
-## ⚠️ Avertissements (33)
+## ⚠️ Avertissements (34)
 
 ### Sous-types peut-être collés (ajoute la partie manquante dans EXTRA_SUBTYPES, ou la valeur dans KEEP_WHOLE si elle est correcte) — 9
 
@@ -55,8 +55,9 @@
 
 - `DON!!` — 187 carte(s)
 
-### Cartes sans image (ignorées) — 3
+### Cartes sans image (ignorées) — 4
 
+- `Boosters` — 89 carte(s) : EB05-028, EB05-047, EB05-001, EB05-046, EB05-021, EB05-037, EB05-052, EB05-055, EB05-033, EB05-040, EB05-006, EB05-059, EB05-061, EB05-016, EB05-014…
 - `Starter decks` — 1 carte(s) : ST14-004
 - `Promos` — 137 carte(s) : OP07-037, ST11-004, OP02-022_pr1, OP07-076, OP05-037_pr1, P-700, OP09-081, OP01-001, OP09-001, OP10-042, P-011_pr1, ST13-002_pr1, ST13-003, P-035, ST19-002…
 - `DON!!` — 4 carte(s) : don_132, don_169, don_181, don_185
