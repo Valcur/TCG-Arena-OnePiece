@@ -16148,6 +16148,32 @@
     "life": 4,
     "set": "Extra Booster: One Piece Heroines Edition"
   },
+  "EB03-001_p2": {
+    "id": "EB03-001_p2",
+    "face": {
+      "front": {
+        "name": "Nefeltari Vivi EB03-001",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB03-001_p2_sVHe8AM.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nefeltari Vivi EB03-001",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Blue",
+      "Red"
+    ],
+    "subtypes": [
+      "Alabasta"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "EB03-002": {
     "id": "EB03-002",
     "face": {
@@ -20503,6 +20529,2094 @@
     "power": 12000,
     "set": "One Piece Promotion Cards"
   },
+  "EB05-001": {
+    "id": "EB05-001",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney EB05-001",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-001_OuPDQ0M.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jewelry Bonney EB05-001",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Bonney Pirates",
+      "Supernovas"
+    ],
+    "power": 7000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-001_p1": {
+    "id": "EB05-001_p1",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney EB05-001",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-001_p1_fSMCWTD.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jewelry Bonney EB05-001",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Bonney Pirates",
+      "Supernovas"
+    ],
+    "power": 7000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-002": {
+    "id": "EB05-002",
+    "face": {
+      "front": {
+        "name": "Doll EB05-002",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-002_4P5lyRi.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doll EB05-002",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Navy"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-003": {
+    "id": "EB05-003",
+    "face": {
+      "front": {
+        "name": "Pasia EB05-003",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-003_6D8PTZV.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pasia EB05-003",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Sabaody Archipelago"
+    ],
+    "power": 3000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-004": {
+    "id": "EB05-004",
+    "face": {
+      "front": {
+        "name": "Baby 5 EB05-004",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-004_A5NFkrc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baby 5 EB05-004",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-004_p1": {
+    "id": "EB05-004_p1",
+    "face": {
+      "front": {
+        "name": "Baby 5 EB05-004",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-004_p1_yhS6mpz.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baby 5 EB05-004",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-005": {
+    "id": "EB05-005",
+    "face": {
+      "front": {
+        "name": "Belo Betty EB05-005",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-005_QG9GKOB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belo Betty EB05-005",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Revolutionary Army"
+    ],
+    "power": 3000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-006": {
+    "id": "EB05-006",
+    "face": {
+      "front": {
+        "name": "Miss Buckingham Stussy EB05-006",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-006_IvVYeAB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Buckingham Stussy EB05-006",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Rocks Pirates"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-006_p1": {
+    "id": "EB05-006_p1",
+    "face": {
+      "front": {
+        "name": "Miss Buckingham Stussy EB05-006",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-006_p1_I5MKjQa.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Buckingham Stussy EB05-006",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Rocks Pirates"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-006_p2": {
+    "id": "EB05-006_p2",
+    "face": {
+      "front": {
+        "name": "Miss Buckingham Stussy EB05-006",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-006_p2_aHoWscK.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Buckingham Stussy EB05-006",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Rocks Pirates"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-007": {
+    "id": "EB05-007",
+    "face": {
+      "front": {
+        "name": "Monet EB05-007",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-007_4FwTUNL.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monet EB05-007",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Donquixote Pirates",
+      "Punk Hazard"
+    ],
+    "power": 1000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-008": {
+    "id": "EB05-008",
+    "face": {
+      "front": {
+        "name": "Luffy, Now's Your Chance EB05-008",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-008_5pTS2vy.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luffy, Now's Your Chance EB05-008",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Kuja Pirates",
+      "The Seven Warlords of the Sea"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-009": {
+    "id": "EB05-009",
+    "face": {
+      "front": {
+        "name": "Fight and Die with Me!!! EB05-009",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-009_QgB6Gom.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fight and Die with Me!!! EB05-009",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-010": {
+    "id": "EB05-010",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-010",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-010.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-010",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-010_p1": {
+    "id": "EB05-010_p1",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-010",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-010_p1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-010",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-010_p2": {
+    "id": "EB05-010_p2",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-010",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-010_p2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-010",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-011": {
+    "id": "EB05-011",
+    "face": {
+      "front": {
+        "name": "Otohime EB05-011",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-011_1FI53ge.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Otohime EB05-011",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-012": {
+    "id": "EB05-012",
+    "face": {
+      "front": {
+        "name": "Camie EB05-012",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-012_YIi0cGx.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camie EB05-012",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-013": {
+    "id": "EB05-013",
+    "face": {
+      "front": {
+        "name": "Shirley EB05-013",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-013_ZkCRpTc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shirley EB05-013",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-014": {
+    "id": "EB05-014",
+    "face": {
+      "front": {
+        "name": "Shirahoshi EB05-014",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-014_ototXdA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shirahoshi EB05-014",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-014_4pIX3VX": {
+    "id": "EB05-014_4pIX3VX",
+    "face": {
+      "front": {
+        "name": "Shirahoshi EB05-014",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-014_4pIX3VX.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shirahoshi EB05-014",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-014_p2": {
+    "id": "EB05-014_p2",
+    "face": {
+      "front": {
+        "name": "Shirahoshi EB05-014",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-014_p2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shirahoshi EB05-014",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-015": {
+    "id": "EB05-015",
+    "face": {
+      "front": {
+        "name": "Tashigi EB05-015",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-015_X6jtRp5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tashigi EB05-015",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Common",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Navy",
+      "East Blue"
+    ],
+    "power": 7000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-016": {
+    "id": "EB05-016",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-016",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-016_A8EFAsg.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-016",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-016_p1": {
+    "id": "EB05-016_p1",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-016",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-016_p1_g4QPhOj.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-016",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-016_p2": {
+    "id": "EB05-016_p2",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-016",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-016_p2_oksEemQ.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-016",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-017": {
+    "id": "EB05-017",
+    "face": {
+      "front": {
+        "name": "Mermaid Cafe Dancers EB05-017",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-017_B60330q.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mermaid Cafe Dancers EB05-017",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-018": {
+    "id": "EB05-018",
+    "face": {
+      "front": {
+        "name": "Rebecca EB05-018",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-018_TdPAt3U.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebecca EB05-018",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Dressrosa"
+    ],
+    "power": 1000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-018_KeVWmeC": {
+    "id": "EB05-018_KeVWmeC",
+    "face": {
+      "front": {
+        "name": "Rebecca EB05-018",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-018_KeVWmeC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebecca EB05-018",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Dressrosa"
+    ],
+    "power": 1000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-019": {
+    "id": "EB05-019",
+    "face": {
+      "front": {
+        "name": "I Choose to Open This Country to the World!! I Want to Fight on Your Side!!! EB05-019",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-019_SMyPF0A.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Choose to Open This Country to the World!! I Want to Fight on Your Side!!! EB05-019",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Land of Wano"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-020": {
+    "id": "EB05-020",
+    "face": {
+      "front": {
+        "name": "My name is Shirahoshi!! EB05-020",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-020_cc70RKW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "My name is Shirahoshi!! EB05-020",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-021": {
+    "id": "EB05-021",
+    "face": {
+      "front": {
+        "name": "Alvida EB05-021",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-021_UC0jwJC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alvida EB05-021",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Super Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Cross Guild"
+    ],
+    "power": 7000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-021_p1": {
+    "id": "EB05-021_p1",
+    "face": {
+      "front": {
+        "name": "Alvida EB05-021",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-021_p1_7YPtxu1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alvida EB05-021",
+    "type": "Character",
+    "cost": 9,
+    "rarity": "Super Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Cross Guild"
+    ],
+    "power": 7000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-022": {
+    "id": "EB05-022",
+    "face": {
+      "front": {
+        "name": "Octopako EB05-022",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-022_yohtHQ6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Octopako EB05-022",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Fish-Man",
+      "Fish-Man Island"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-023": {
+    "id": "EB05-023",
+    "face": {
+      "front": {
+        "name": "Osome EB05-023",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-023_rcO6Fss.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Osome EB05-023",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Land of Wano"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-024": {
+    "id": "EB05-024",
+    "face": {
+      "front": {
+        "name": "Little Sadi EB05-024",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-024_tVcd5ja.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Little Sadi EB05-024",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Impel Down"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-025": {
+    "id": "EB05-025",
+    "face": {
+      "front": {
+        "name": "Domino EB05-025",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-025_JK6zJcF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Domino EB05-025",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Impel Down"
+    ],
+    "power": 3000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-026": {
+    "id": "EB05-026",
+    "face": {
+      "front": {
+        "name": "Hina EB05-026",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-026_wJMnp0V.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hina EB05-026",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Common",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Navy"
+    ],
+    "power": 8000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-027": {
+    "id": "EB05-027",
+    "face": {
+      "front": {
+        "name": "Hibari EB05-027",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-027_lM6VtxM.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hibari EB05-027",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Navy",
+      "SWORD"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-028": {
+    "id": "EB05-028",
+    "face": {
+      "front": {
+        "name": "Boa Hancock EB05-028",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-028_TLD6aZQ.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boa Hancock EB05-028",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Kuja Pirates",
+      "The Seven Warlords of the Sea",
+      "Impel Down"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-028_l7boGa1": {
+    "id": "EB05-028_l7boGa1",
+    "face": {
+      "front": {
+        "name": "Boa Hancock EB05-028",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-028_l7boGa1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boa Hancock EB05-028",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Kuja Pirates",
+      "The Seven Warlords of the Sea",
+      "Impel Down"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-029": {
+    "id": "EB05-029",
+    "face": {
+      "front": {
+        "name": "Kimono Sleeve Cage EB05-029",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-029_Yv6QQzx.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kimono Sleeve Cage EB05-029",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Common",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Navy"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-030": {
+    "id": "EB05-030",
+    "face": {
+      "front": {
+        "name": "Take Care, Everybody. EB05-030",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-030_eHH3q4o.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Care, Everybody. EB05-030",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-031": {
+    "id": "EB05-031",
+    "face": {
+      "front": {
+        "name": "Vinsmoke Reiju EB05-031",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-031_Yfd5VjE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vinsmoke Reiju EB05-031",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-031_p1": {
+    "id": "EB05-031_p1",
+    "face": {
+      "front": {
+        "name": "Vinsmoke Reiju EB05-031",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-031_p1_QwD66di.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vinsmoke Reiju EB05-031",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-032": {
+    "id": "EB05-032",
+    "face": {
+      "front": {
+        "name": "Ulti EB05-032",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-032_Y2I5nOw.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ulti EB05-032",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Animal Kingdom Pirates"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-033": {
+    "id": "EB05-033",
+    "face": {
+      "front": {
+        "name": "Nico Robin EB05-033",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-033_iJ2kOF6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Robin EB05-033",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-034": {
+    "id": "EB05-034",
+    "face": {
+      "front": {
+        "name": "Sugar EB05-034",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-034_9felJtZ.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sugar EB05-034",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Donquixote Pirates"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-034_2iJcyZI": {
+    "id": "EB05-034_2iJcyZI",
+    "face": {
+      "front": {
+        "name": "Sugar EB05-034",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-034_2iJcyZI.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sugar EB05-034",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Donquixote Pirates"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-035": {
+    "id": "EB05-035",
+    "face": {
+      "front": {
+        "name": "Speed EB05-035",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-035_kew2Jmp.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Speed EB05-035",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Animal Kingdom Pirates",
+      "SMILE"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-036": {
+    "id": "EB05-036",
+    "face": {
+      "front": {
+        "name": "Tsuru EB05-036",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-036_JKeQAkg.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsuru EB05-036",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Navy"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-037": {
+    "id": "EB05-037",
+    "face": {
+      "front": {
+        "name": "Black Maria EB05-037",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-037_VbMSZno.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Maria EB05-037",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Animal Kingdom Pirates"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-037_2IpwgqG": {
+    "id": "EB05-037_2IpwgqG",
+    "face": {
+      "front": {
+        "name": "Black Maria EB05-037",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-037_2IpwgqG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Maria EB05-037",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Animal Kingdom Pirates"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-038": {
+    "id": "EB05-038",
+    "face": {
+      "front": {
+        "name": "Russian EB05-038",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-038_0AMqLC9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Russian EB05-038",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Senor Pink's Wife"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-039": {
+    "id": "EB05-039",
+    "face": {
+      "front": {
+        "name": "Pink Hornet EB05-039",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-039_03FihP5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pink Hornet EB05-039",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-040": {
+    "id": "EB05-040",
+    "face": {
+      "front": {
+        "name": "You Need Me, Don't You?!! EB05-040",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-040_Uov0W2a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "You Need Me, Don't You?!! EB05-040",
+    "type": "Event",
+    "cost": 0,
+    "rarity": "Rare",
+    "colors": [
+      "Purple"
+    ],
+    "subtypes": [
+      "Donquixote Pirates"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-041": {
+    "id": "EB05-041",
+    "face": {
+      "front": {
+        "name": "Koala EB05-041",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-041_rqAPddy.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koala EB05-041",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Revolutionary Army",
+      "Dressrosa"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-042": {
+    "id": "EB05-042",
+    "face": {
+      "front": {
+        "name": "Shinobu EB05-042",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-042_qSRCJXE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinobu EB05-042",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Land of Wano"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-043": {
+    "id": "EB05-043",
+    "face": {
+      "front": {
+        "name": "Perona EB05-043",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-043_KzeHlX6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perona EB05-043",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Thriller Bark Pirates"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-043_cAwYMcA": {
+    "id": "EB05-043_cAwYMcA",
+    "face": {
+      "front": {
+        "name": "Perona EB05-043",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-043_cAwYMcA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perona EB05-043",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Thriller Bark Pirates"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-044": {
+    "id": "EB05-044",
+    "face": {
+      "front": {
+        "name": "Ms. Father's Day EB05-044",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-044_Ri8eal7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ms. Father's Day EB05-044",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Baroque Works"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-045": {
+    "id": "EB05-045",
+    "face": {
+      "front": {
+        "name": "Ms. Monday EB05-045",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-045_32YHbyA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ms. Monday EB05-045",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Baroque Works"
+    ],
+    "power": 3000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-046": {
+    "id": "EB05-046",
+    "face": {
+      "front": {
+        "name": "Yamato EB05-046",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-046_EctTl5w.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yamato EB05-046",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Land of Wano"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-046_p1": {
+    "id": "EB05-046_p1",
+    "face": {
+      "front": {
+        "name": "Yamato EB05-046",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-046_p1_REztKEz.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yamato EB05-046",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Land of Wano"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-047": {
+    "id": "EB05-047",
+    "face": {
+      "front": {
+        "name": "Ripley EB05-047",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-047_rqaM0Tp.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ripley EB05-047",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Giant",
+      "Elbaph"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-048": {
+    "id": "EB05-048",
+    "face": {
+      "front": {
+        "name": "Hedgehog Stinger EB05-048",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-048_Xzs4LAB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hedgehog Stinger EB05-048",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Baroque Works"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-049": {
+    "id": "EB05-049",
+    "face": {
+      "front": {
+        "name": "Special Hollow EB05-049",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-049_MDkQqmE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Special Hollow EB05-049",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Thriller Bark Pirates"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-050": {
+    "id": "EB05-050",
+    "face": {
+      "front": {
+        "name": "Atlas EB05-050",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-050_yLIItTS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Atlas EB05-050",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Scientist",
+      "Egghead"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-051": {
+    "id": "EB05-051",
+    "face": {
+      "front": {
+        "name": "Ahiru EB05-051",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-051_JIAVBqD.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahiru EB05-051",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Revolutionary Army"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-052": {
+    "id": "EB05-052",
+    "face": {
+      "front": {
+        "name": "Gloriosa EB05-052",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-052_NVjTA0X.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gloriosa EB05-052",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Amazon Lily",
+      "Rocks Pirates"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-052_p1": {
+    "id": "EB05-052_p1",
+    "face": {
+      "front": {
+        "name": "Gloriosa EB05-052",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-052_p1_VmAhKFL.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gloriosa EB05-052",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Amazon Lily",
+      "Rocks Pirates"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-053": {
+    "id": "EB05-053",
+    "face": {
+      "front": {
+        "name": "Charlotte Praline EB05-053",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-053_ggR4Yj6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charlotte Praline EB05-053",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "The Sun",
+      "Pirates",
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 5000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-054": {
+    "id": "EB05-054",
+    "face": {
+      "front": {
+        "name": "Charlotte Brulee EB05-054",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-054_IBUFcp1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charlotte Brulee EB05-054",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Big Mom Pirates"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-055": {
+    "id": "EB05-055",
+    "face": {
+      "front": {
+        "name": "Nami EB05-055",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-055_JIc5kgj.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-055",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-055_p1": {
+    "id": "EB05-055_p1",
+    "face": {
+      "front": {
+        "name": "Nami EB05-055",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-055_p1_N063a9B.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-055",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-055_p3": {
+    "id": "EB05-055_p3",
+    "face": {
+      "front": {
+        "name": "Nami EB05-055",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-055_p3_r341fMd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-055",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-055_xKLfSx4": {
+    "id": "EB05-055_xKLfSx4",
+    "face": {
+      "front": {
+        "name": "Nami EB05-055",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-055_xKLfSx4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-055",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew",
+      "East Blue"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-056": {
+    "id": "EB05-056",
+    "face": {
+      "front": {
+        "name": "Nico Olvia EB05-056",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-056_oJjCklB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nico Olvia EB05-056",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Ohara"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-057": {
+    "id": "EB05-057",
+    "face": {
+      "front": {
+        "name": "Nojiko EB05-057",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-057_GFQwUEf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nojiko EB05-057",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "East Blue"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-057_MoF5fCs": {
+    "id": "EB05-057_MoF5fCs",
+    "face": {
+      "front": {
+        "name": "Nojiko EB05-057",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-057_MoF5fCs.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nojiko EB05-057",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "East Blue"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-058": {
+    "id": "EB05-058",
+    "face": {
+      "front": {
+        "name": "Bell-mere EB05-058",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-058_kFies8p.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bell-mere EB05-058",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Former",
+      "Navy",
+      "East Blue"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-059": {
+    "id": "EB05-059",
+    "face": {
+      "front": {
+        "name": "Charlotte Pudding!! EB05-059",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-059_9uXFNQC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charlotte Pudding!! EB05-059",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Big Mom Pirates"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-060": {
+    "id": "EB05-060",
+    "face": {
+      "front": {
+        "name": "Take Care of Lilith!!! EB05-060",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-060_u6Abo1K.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Care of Lilith!!! EB05-060",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Scientist",
+      "Egghead"
+    ],
+    "power": 0,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-061": {
+    "id": "EB05-061",
+    "face": {
+      "front": {
+        "name": "Nami EB05-061",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-061_ZNZ4pSv.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-061",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Secret Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
+  "EB05-061_i92XWTH": {
+    "id": "EB05-061_i92XWTH",
+    "face": {
+      "front": {
+        "name": "Nami EB05-061",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/EB05-061_i92XWTH.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami EB05-061",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Secret Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "OP01-001": {
     "id": "OP01-001",
     "face": {
@@ -21587,6 +23701,30 @@
     ],
     "power": 2000,
     "set": "Romance Dawn"
+  },
+  "OP01-016_p10": {
+    "id": "OP01-016_p10",
+    "face": {
+      "front": {
+        "name": "Nami OP01-016",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP01-016_p10_A6UJ7ZU.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami OP01-016",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 2000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "OP01-016_p2": {
     "id": "OP01-016_p2",
@@ -83547,6 +85685,33 @@
     "life": 5,
     "set": "A Fist of Divine Speed"
   },
+  "OP11-022_p2": {
+    "id": "OP11-022_p2",
+    "face": {
+      "front": {
+        "name": "Shirahoshi OP11-022",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP11-022_p2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shirahoshi OP11-022",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "power": 5000,
+    "life": 5,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "OP11-023": {
     "id": "OP11-023",
     "face": {
@@ -84190,6 +86355,32 @@
     "power": 5000,
     "life": 4,
     "set": "A Fist of Divine Speed"
+  },
+  "OP11-041_p4": {
+    "id": "OP11-041_p4",
+    "face": {
+      "front": {
+        "name": "Nami OP11-041",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP11-041_p4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nami OP11-041",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "OP11-042": {
     "id": "OP11-042",
@@ -95210,6 +97401,32 @@
     "life": 5,
     "set": "Carrying On His Will"
   },
+  "OP13-100_MLxoMHq": {
+    "id": "OP13-100_MLxoMHq",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney OP13-100",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP13-100_MLxoMHq.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jewelry Bonney OP13-100",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Bonney Pirates",
+      "Egghead"
+    ],
+    "power": 5000,
+    "life": 5,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "OP13-100_p1": {
     "id": "OP13-100_p1",
     "face": {
@@ -97311,6 +99528,31 @@
     "power": 6000,
     "set": "The Azure Sea's Seven"
   },
+  "OP14-033_p3": {
+    "id": "OP14-033_p3",
+    "face": {
+      "front": {
+        "name": "Perona OP14-033",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP14-033_p3_hHtbFbW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perona OP14-033",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Super Rare",
+    "colors": [
+      "Green"
+    ],
+    "subtypes": [
+      "Thriller Bark Pirates",
+      "Muggy Kingdom"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "Perona_Extra_Grand_Battle_for_Stores_2026_img": {
     "id": "Perona_Extra_Grand_Battle_for_Stores_2026_img",
     "face": {
@@ -97594,6 +99836,33 @@
     "power": 5000,
     "life": 4,
     "set": "The Azure Sea's Seven"
+  },
+  "OP14-041_p3": {
+    "id": "OP14-041_p3",
+    "face": {
+      "front": {
+        "name": "Boa Hancock OP14-041",
+        "type": "Leader",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP14-041_p3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boa Hancock OP14-041",
+    "type": "Leader",
+    "cost": 2,
+    "rarity": "Leader",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "subtypes": [
+      "Kuja Pirates",
+      "The Seven Warlords of the Sea"
+    ],
+    "power": 5000,
+    "life": 4,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "OP14-042": {
     "id": "OP14-042",
@@ -101460,6 +103729,31 @@
     "power": 5000,
     "life": 5,
     "set": "Adventure on Kami's Island"
+  },
+  "OP15-039_p2": {
+    "id": "OP15-039_p2",
+    "face": {
+      "front": {
+        "name": "Rebecca OP15-039",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP15-039_p2_itcdwEc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebecca OP15-039",
+    "type": "Leader",
+    "cost": 0,
+    "rarity": "Leader",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Dressrosa"
+    ],
+    "power": 5000,
+    "life": 5,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "OP15-040": {
     "id": "OP15-040",
@@ -110363,6 +112657,32 @@
     "power": 3000,
     "set": "The World's Strongest Warriors"
   },
+  "OP17-081_p1": {
+    "id": "OP17-081_p1",
+    "face": {
+      "front": {
+        "name": "Gerd OP17-081",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP17-081_p1_zjc5B5q.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gerd OP17-081",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "colors": [
+      "Black"
+    ],
+    "subtypes": [
+      "Giant",
+      "New Giant Pirates",
+      "Elbaph"
+    ],
+    "power": 3000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
+  },
   "OP17-082": {
     "id": "OP17-082",
     "face": {
@@ -111195,6 +113515,30 @@
     ],
     "power": 4000,
     "set": "The World's Strongest Warriors"
+  },
+  "OP17-109_p1": {
+    "id": "OP17-109_p1",
+    "face": {
+      "front": {
+        "name": "Charlotte Pudding OP17-109",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/OP17-109_p1_57Rbfn2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charlotte Pudding OP17-109",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Rare",
+    "colors": [
+      "Yellow"
+    ],
+    "subtypes": [
+      "Big Mom Pirates"
+    ],
+    "power": 4000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "OP17-110": {
     "id": "OP17-110",
@@ -126094,6 +128438,31 @@
     ],
     "power": 6000,
     "set": "Starter Deck 17: BLUE Donquixote Doflamingo"
+  },
+  "ST17-004_p1": {
+    "id": "ST17-004_p1",
+    "face": {
+      "front": {
+        "name": "Boa Hancock ST17-004",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://www.optcgapi.com/media/static/Card_Images/ST17-004_p1_tZmAcke.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boa Hancock ST17-004",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "colors": [
+      "Blue"
+    ],
+    "subtypes": [
+      "Kuja Pirates",
+      "The Seven Warlords of the Sea"
+    ],
+    "power": 6000,
+    "set": "Extra Booster: One Piece Heroines Edition Vol. 2"
   },
   "Marshall.D.Teach_Judge_Pack_Vol._7_img": {
     "id": "Marshall.D.Teach_Judge_Pack_Vol._7_img",
