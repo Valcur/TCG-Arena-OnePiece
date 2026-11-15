@@ -1,4 +1,4 @@
-# Mise à jour des cartes One Piece — 2026-11-08 14:13 UTC
+# Mise à jour des cartes One Piece — 2026-11-15 14:39 UTC
 
 | | |
 |---|---|
@@ -6,8 +6,8 @@
 | Starter decks | 626 cartes |
 | Promos | 1082 cartes |
 | DON!! | 187 cartes |
-| Cartes dans OnePieceCards.json | 5483 (avant : 5387) |
-| Nouvelles cartes | 96 |
+| Cartes dans OnePieceCards.json | 5483 (avant : 5483) |
+| Nouvelles cartes | 0 |
 | Cartes disparues de l'API (conservées) | 0 |
 | Cartes ignorées faute d'image | 142 |
 | Sous-types différents | 202 (dont 54 cités dans les textes de cartes, 62 déduits) |
@@ -127,7 +127,3 @@ Jamais cités seuls ni dans un texte de carte : trouvés en retirant les sous-ty
 - **The Sun** — ex : `The Sun Pirates`
 - **Golden Lion** — ex : `Golden Lion Pirates`
 - **King of the** — ex : `King of the Pirates`
-
-## ➕ Nouvelles cartes (96)
-
-`Extra Booster: One Piece Heroines Edition Vol. 2` 96
